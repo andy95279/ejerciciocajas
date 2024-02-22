@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+}
+
+div.titulo{
+    margin-left: 85px;
+    padding-bottom: 10px;
+}
+
+div.tarjeta{
+    border-width:2px solid #e60707;
+    border-style: solid;
+    border-color: #cf2121;
+    padding:40px; 
+    background:#385725;
+    width:300px;
+    border-radius:25px;
+    box-shadow: -1px -1px 15px 5px rgba(248, 248, 248, 0.75);
+    padding-bottom: 0px;
+
+}
+
+h2{
+    margin-top: -30px;
+    margin-left: 45px;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+div.pie{
+    text-align:center;
+    border-bottom-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    margin-left: -40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 380px;
+     background-color: rgb(51, 116, 202);
+}
+
+p{
+    padding-top: 5px;
+    margin-left: -35px;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
